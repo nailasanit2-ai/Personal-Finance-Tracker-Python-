@@ -19,7 +19,7 @@ with a focus on clean code, modular functions, and user-friendly interaction.
 
 ## How to Run
 1. Clone this repository:
-   git clone https://github.com/nsabit/finance-tracker-python
+   git clone https://github.com//nailasanit2-ai/Personal-Finance-Tracker-Python
 
 2. Run the script:
    python main.py
